@@ -1,0 +1,11 @@
+product_id,product_name,MAPE_%,MAE_units,forecast_m1,forecast_m2,forecast_m3
+P001,Tata Tea Premium 250g,10.4,592.0,5805,5805,5805
+P002,Tata Tea Premium 500g,28.86,1256.3,4939,4996,4968
+P003,Tata Tea Gold 250g,18.32,770.0,4906,5082,5175
+P004,Tetley Green Tea 100TB,18.92,343.7,1891,1927,1891
+P005,Tata Salt 1kg,8.53,576.7,6897,6849,6839
+P006,Tata Salt Lite 1kg,10.8,242.0,2130,2193,2165
+P007,Tata Sampann Dal 500g,8.03,276.0,3172,3077,3053
+P008,Tata Sampann Chana Dal,10.0,207.3,2187,2110,2078
+P009,Himalayan Water 500ml,53.42,2706.3,4560,4457,4402
+P010,Eight O Clock Coffee,19.35,200.3,1080,1101,1095
