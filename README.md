@@ -164,15 +164,12 @@ All outputs (CSVs + charts) will be saved to the `outputs/` folder automatically
 
 ---
 
-## 👤 Author
+##  Author
 
-**[Your Name]**  
+Kunal Upreti
 B.Tech — Production & Industrial Engineering  
 National Institute of Technology, Jamshedpur | CGPA: 7.39  
 
-📧 [your.email@gmail.com]  
-🔗 [LinkedIn Profile]  
-💻 [GitHub Profile]
 
 ---
 
